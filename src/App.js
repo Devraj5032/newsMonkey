@@ -5,7 +5,7 @@ import { BrowserRouter as Router, Routes, Route } from "react-router-dom";
 function App() {
   let  pageSize = 10;
 
-  let  apiKey = "89a5ebaf3228422b931a7edbc3cf9832"
+  let  apiKey = "89a5ebaf3228422b931a7edbc3cf9832";
 
   return (
     <div>
